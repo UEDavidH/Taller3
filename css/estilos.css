@@ -3,15 +3,15 @@ table{
 }
 thead tr,th{
     border: 1.5px solid rgb(0, 0, 0);
-    background-color: aqua;
+    background-color: rgb(140, 0, 255);
 }
 tbody td{
     border: 1.5px solid rgb(0, 0, 0);
-    background-color: aqua;
+    background-color: rgb(140, 0, 255);
 }
 tfoot td{
     border: 1.5px solid rgb(0, 0, 0);
-    background-color: rgb(0, 255, 0);
+    background-color: rgb(177, 140, 247);
 }
 caption{
     border: 1.5px solid rgb(0, 0, 0);
